@@ -1,0 +1,5 @@
+ENT.Base 	= "npc_vj_creature_base"
+ENT.Type 	= "ai"
+ENT.PrintName 	= "Prussian carp"
+ENT.Category	= "Animalia"
+ENT.Author 	= "vladvoron"

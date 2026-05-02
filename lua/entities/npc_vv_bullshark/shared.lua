@@ -1,0 +1,5 @@
+ENT.Base 	= "npc_vj_creature_base"
+ENT.Type 	= "ai"
+ENT.PrintName 	= "Bull shark"
+ENT.Category	= "Animalia"
+ENT.Author 	= "vladvoron"

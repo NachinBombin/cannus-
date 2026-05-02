@@ -1,0 +1,5 @@
+ENT.Type 	= "anim"
+ENT.Base 	= "obj_vj_projectile_base"
+ENT.PrintName	= "Bird shit"
+ENT.Category	= "Animalia"
+ENT.Author 	= "vladvoron"
